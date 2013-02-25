@@ -1,11 +1,11 @@
 =======
-learn_DI_angular
+Learn Dependency Injection with Angular Project
 ================
 
     In a separate terminal tab or window, run 
     ```
     ./scripts/web-server.js 
-    ````
+    ```
     to start the web server.
     
     Open a browser window for the app and navigate to 
