@@ -2,6 +2,12 @@
 
 /* App Module */
 
+/* 
+ * This is the main Application Module 
+ * All the Routing and Controller assignment is Done here
+ *
+ */
+
 angular.module('CoffeeMaker', ['coffeeServices']).
   config(['$routeProvider', function($routeProvider) {
   $routeProvider.
